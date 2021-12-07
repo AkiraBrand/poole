@@ -33,9 +33,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
-
+  name: Akira Brand
+  url: http://AkiraBrand.github.io/poole/
+  email: theakirati@gmail.com
 # Custom vars
 version: 3.0.0
